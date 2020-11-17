@@ -1,0 +1,8 @@
+{
+    "name": "d-flight/secret-santa-mail",
+    "description": "Secret Santa over SMTP",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
